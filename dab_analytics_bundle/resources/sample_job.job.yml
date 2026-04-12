@@ -31,11 +31,6 @@ resources:
             - task_key: customer_360
           notebook_task:
             notebook_path: ../src/transaction_summary.ipynb
-      
-      tasks:
-        - task_key: notebook_task
-          notebook_task:
-            notebook_path: ../src/customer_360.ipynb
 
       environments:
         - environment_key: default
