@@ -13,7 +13,7 @@ on:
     branches:
       - main
     paths:
-      - 'bakehosue_analytics/**'
+      - 'dab_analytics_bundle/**'
 
 jobs:
   deploy:
